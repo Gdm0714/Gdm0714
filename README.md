@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋 Dongmin
+
+[![donmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongmin&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGdm0714&count_bg=%2302FF2B&title_bg=%230030F9&icon=googlechrome.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="블로그 주소"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=블로그 주소"/></a>
+<a href="인스타그램 주소" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <!--
 **Gdm0714/Gdm0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
