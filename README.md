@@ -3,7 +3,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Rounded&text=Dongmin)</br>
 ### Hi 👋 Welcome!
-</br></br></br>
+</br></br>
  
 ####  :clipboard: Once I've Used </br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -12,13 +12,12 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-</br></br></br></br>
+</br></br>
 
 #### :pencil2: Study log
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![donmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongmin&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
