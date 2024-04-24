@@ -1,7 +1,6 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Rounded&text=Dongmin)</br>
 ### Hi 👋 Welcome!
 </br></br>
  
